@@ -1,0 +1,6 @@
+body {
+    background-color: aquamarine; /* Ganti dengan path gambar Anda */
+    background-size: cover; /* Mengatur gambar agar menutupi seluruh area */
+    background-position: center; /* Memposisikan gambar di tengah */
+    background-repeat: no-repeat; /* Menghindari pengulangan gambar */
+  }
